@@ -1,0 +1,74 @@
+[
+  {
+    "brand": "Amazon",
+    "title": "SAVE10 10% off",
+    "source": "coupon",
+    "discount_pct": 10,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Amazon",
+    "title": "Rakuten 3% cashback",
+    "source": "cashback",
+    "discount_pct": 0,
+    "reward_pct": 3,
+    "price": null
+  },
+  {
+    "brand": "Walmart",
+    "title": "GROCERY8 8% off",
+    "source": "coupon",
+    "discount_pct": 8,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Netflix",
+    "title": "Student annual plan",
+    "source": "offer",
+    "discount_pct": 0,
+    "reward_pct": 0,
+    "price": 83.88
+  },
+  {
+    "brand": "Uber",
+    "title": "UBER15 15% off",
+    "source": "coupon",
+    "discount_pct": 15,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Delta",
+    "title": "NYC-LAX promo fare",
+    "source": "offer",
+    "discount_pct": 0,
+    "reward_pct": 0,
+    "price": 189
+  },
+  {
+    "brand": "Delta",
+    "title": "DELTA10 10% off fares",
+    "source": "coupon",
+    "discount_pct": 10,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Nike",
+    "title": "NIKE20 member coupon",
+    "source": "coupon",
+    "discount_pct": 20,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Starbucks",
+    "title": "App 10% off drinks",
+    "source": "offer",
+    "discount_pct": 10,
+    "reward_pct": 0,
+    "price": null
+  }
+]

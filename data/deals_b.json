@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Amazon",
+    "title": "SAVE10 10% off",
+    "source": "coupon",
+    "discount_pct": 10,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Amazon",
+    "title": "Honey 12% coupon",
+    "source": "coupon",
+    "discount_pct": 12,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Amazon",
+    "title": "10% coupon + 4% cashback",
+    "source": "cashback",
+    "discount_pct": 10,
+    "reward_pct": 4,
+    "price": null
+  },
+  {
+    "brand": "Walmart",
+    "title": "GROCERY8 8% off",
+    "source": "coupon",
+    "discount_pct": 5,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Best Buy",
+    "title": "Open box 15% off",
+    "source": "offer",
+    "discount_pct": 15,
+    "reward_pct": 0,
+    "price": null
+  },
+  {
+    "brand": "Airbnb",
+    "title": "First trip 10% off",
+    "source": "coupon",
+    "discount_pct": 10,
+    "reward_pct": 0,
+    "price": null
+  }
+]

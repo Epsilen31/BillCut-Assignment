@@ -1,0 +1,6 @@
+[
+  { "name": "Chase Freedom", "reward_pct": 1 },
+  { "name": "Citi Double Cash", "reward_pct": 2 },
+  { "name": "Amex Gold", "reward_pct": 4 },
+  { "name": "Amazon Prime Visa", "reward_pct": 5 }
+]
